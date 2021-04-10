@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "923448652532",
+    "project_id": "johony40-cc24b",
+    "storage_bucket": "johony40-cc24b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:923448652532:android:1a503e29417158f071e4a1",
+        "android_client_info": {
+          "package_name": "com.sg.johony40"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "923448652532-oceo5jnlsevj67ps2g83umoer9q9taq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvdgI7xft3UsTGIyGofNj95lGuZUiu1_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "923448652532-oceo5jnlsevj67ps2g83umoer9q9taq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
